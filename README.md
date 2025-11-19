@@ -1,110 +1,94 @@
 # NetFlow 🌐
 
-**Stay Updated on Your Internet Usage**
+**📊 Stay Updated on Your Internet Usage**
 
-NetFlow is a lightweight tool to monitor and track your internet usage in real-time. It provides insights into network activity and helps you understand data consumption patterns.
+NetFlow is a **lightweight and user-friendly tool** to monitor and track your internet usage in real-time.  
+It provides insights into network activity and helps you understand **data consumption patterns** effortlessly.
 
-## Features ✨
+---
 
-- **Real-time Monitoring**: Track your internet usage as it happens
-- **Detailed Analytics**: Get comprehensive insights into your network activity
-- **Usage Tracking**: Monitor data consumption and bandwidth usage
-- **User-Friendly Interface**: Easy-to-use dashboard for quick access to your statistics
+## ✨ Features
 
-## Installation
+- **⚡ Real-time Monitoring** – Track your internet usage as it happens  
+- **📈 Detailed Analytics** – Get comprehensive insights into your network activity  
+- **💾 Usage Tracking** – Monitor data consumption and bandwidth usage  
+- **🖥️ User-Friendly Interface** – Easy-to-use dashboard for quick access to your statistics  
+
+---
+
+## 🛠️ Installation
 
 ### Prerequisites
 - [List prerequisites such as Node.js, Python, Go, or OS requirements here]
 
-### Getting Started
+### Usage
+- [Add usage examples and instructions here — configuration options, CLI flags, or screenshots]
 
-1. Clone the repository:
-```bash
-git clone https://github.com/AhmedDevEG/NetFlow.git
-cd NetFlow
-```
+---
 
-2. Install dependencies:
-```bash
-# Example for Node.js projects
-npm install
-```
+## ⚙️ Requirements
 
-3. Run the application:
-```bash
-# Example
-npm start
-```
+⚠️ **Windows x64 Only – Minimum Requirements**
 
-## Usage
+- **Operating System:** Windows 7 (64-bit) or later  
+- **Processor:** Dual-core CPU, 1.6GHz or higher  
+- **Memory:** 2GB RAM (4GB recommended)  
+- **Storage:** 200MB of free disk space  
 
-[Add usage examples and instructions here — configuration options, CLI flags, or screenshots]
+---
 
-## Project Structure
+## 💬 Support
 
-```
-NetFlow/
-├── README.md
-├── src/                     # Source code
-├── docs/                    # Documentation and guides
-├── examples/                # Example configurations or usage
-└── LICENSE
-```
-
-## Support 💬
-
-We're here to help! If you encounter any issues or have questions about NetFlow, here are the ways you can get support:
+We’re here to help! If you encounter any issues or have questions about NetFlow, here’s how you can get support:
 
 ### Getting Help
 
-- **GitHub Issues**: Have a bug or feature request? Open an issue on our repository: https://github.com/AhmedDevEG/NetFlow/issues. Please include:
-  - A clear description of the problem
-  - Steps to reproduce the issue
-  - Expected vs actual behavior
-  - Environment details (OS, version, network setup)
+- **🐛 GitHub Issues** – Report bugs or feature requests: [Open an issue](https://github.com/AhmedDevEG/NetFlow/issues)  
+  Include:
+  - Clear description of the problem  
+  - Steps to reproduce the issue  
+  - Expected vs actual behavior  
+  - Environment details (OS, version, network setup)  
 
-- **GitHub Discussions**: For general questions, design discussions, or usage tips, visit: https://github.com/AhmedDevEG/NetFlow/discussions
+- **💬 GitHub Discussions** – General questions, design discussions, or usage tips: [Join the discussion](https://github.com/AhmedDevEG/NetFlow/discussions)  
 
-- **Email**: For direct or urgent support, email the maintainer at: [maintainer@example.com]
+- **📧 Email** – Direct or urgent support: [maintainer@example.com]  
 
 ### Documentation
+- **❓ FAQ** – Quick answers to common questions (see below)  
+---
 
-- Check the project Wiki for guides and troubleshooting: https://github.com/AhmedDevEG/NetFlow/wiki
-- Search existing issues and discussions to see if the question is already answered
-- See the FAQ below for quick answers to common questions
+## 🤔 FAQ
 
-### FAQ 🤔
+**Q:** How do I install NetFlow?  
+**A:** Follow the Installation section above. If your platform has specific steps, open an issue and platform-specific instructions will be added.  
 
-Q: How do I install NetFlow?
-A: Follow the Installation section above. If your platform has specific steps, please open an issue and we'll add platform-specific instructions.
+**Q:** What are the system requirements?  
+**A:** See the Requirements section above.  
 
-Q: What are the system requirements?
-A: Minimum requirements depend on the implementation. Typical requirements: a modern OS (Windows/macOS/Linux), and the runtime for the project (Node.js/Python/etc.).
+**Q:** How is consumption data collected?  
+**A:** Consumption data is collected via a **background service**, which does **not significantly affect system resources**.  
 
-Q: How often is the data updated?
-A: Data update frequency depends on the configuration. Check configuration settings to adjust polling or aggregation intervals.
+**⚠️ Q: Is any personal or private data collected?**  
+**A:** Your privacy is our top priority.  
+This application does **not collect, store, or share any personal or sensitive data**.  
+All processing is done **locally on your device**, and no information is sent to our servers.  
 
-Q: Can I use NetFlow on multiple devices?
-A: Yes — NetFlow can be deployed on multiple hosts. Refer to examples/ for multi-host configuration samples.
+**Q:** Can I use NetFlow on multiple devices?  
+**A:** **Currently no**, it works only for Windows users.  
 
-### Community
+---
 
-- Star the project to show support
-- Share issues and pull requests with clear descriptions
-- Contribute code, documentation, or examples (see Contributing below)
+## 🌐 Community
 
-## Contributing
+- ⭐ Star the project to show your support  
+- 📝 Share issues and pull requests with clear descriptions  
 
-Contributions are welcome! Please read CONTRIBUTING.md (if present) for guidelines. Typical workflow:
+---
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request with a clear description of your changes
+## 📄 License
 
-## License
-
-This project is licensed under [Add license here]
+This project is licensed under: [Add license here]  
 
 ---
 
