@@ -1,6 +1,6 @@
 <img width="64" height="64" alt="NetFlow" src="https://github.com/user-attachments/assets/9cd689e7-4706-463a-9164-387c5d8f7e60" />
 
-# NetFlow 
+# NetFlow
 
 **📊 Stay Updated on Your Internet Usage**
 
@@ -11,6 +11,7 @@ It provides insights into network activity and helps you understand **data consu
 
 ## ✨ Features
 
+> ⚠️ **Notice:** This program is currently in **BETA** and may contain some bugs.
 - **⚡ Real-time Monitoring** – Track your internet usage as it happens  
 - **📈 Detailed Analytics** – Get comprehensive insights into your network activity  
 - **💾 Usage Tracking** – Monitor data consumption and bandwidth usage  
@@ -22,9 +23,6 @@ It provides insights into network activity and helps you understand **data consu
 
 ### Prerequisites
 - [List prerequisites such as Node.js, Python, Go, or OS requirements here]
-
-### Usage
-- [Add usage examples and instructions here — configuration options, CLI flags, or screenshots]
 
 ---
 
