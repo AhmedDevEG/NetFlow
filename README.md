@@ -10,7 +10,6 @@ It provides insights into network activity and helps you understand **data consu
 ---
 
 ## ✨ Features
-
 > ⚠️ **Notice:** This program is currently in **BETA** and may contain some bugs.
 - **⚡ Real-time Monitoring** – Track your internet usage as it happens  
 - **📈 Detailed Analytics** – Get comprehensive insights into your network activity  
@@ -28,7 +27,7 @@ It provides insights into network activity and helps you understand **data consu
 
 ## ⚙️ Requirements
 
-⚠️ **Windows x64 Only – Minimum Requirements**
+> ⚠️ **Windows 64-bit Only**
 
 - **Operating System:** Windows 7 (64-bit) or later  
 - **Processor:** Dual-core CPU, 1.6GHz or higher  
@@ -38,6 +37,8 @@ It provides insights into network activity and helps you understand **data consu
 ---
 
 ## 💬 Support
+
+> ⚠️ **Reminder:** This is a **BETA** version. Please report any bugs or suggestions via GitHub.
 
 We’re here to help! If you encounter any issues or have questions about NetFlow, here’s how you can get support:
 
