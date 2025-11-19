@@ -1,4 +1,6 @@
-# NetFlow 🌐
+<img width="64" height="64" alt="NetFlow" src="https://github.com/user-attachments/assets/9cd689e7-4706-463a-9164-387c5d8f7e60" />
+
+# NetFlow 
 
 **📊 Stay Updated on Your Internet Usage**
 
