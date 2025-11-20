@@ -31,12 +31,8 @@ It provides insights into network activity and helps you understand **data consu
 
 ## ⚙️ Requirements
 
-> ⚠️ **Windows 64-bit Only**
-
-- **Operating System:** Windows 7 (64-bit) or later  
-- **Processor:** Dual-core CPU, 1.6GHz or higher  
-- **Memory:** 2GB RAM (4GB recommended)  
-- **Storage:** 200MB of free disk space  
+- **Runs on:** Windows 10 & Windows 11
+- **Minimum:** 1.6 GHz CPU · 2 GB RAM · 200 MB storage
 
 ---
 
@@ -81,10 +77,7 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 ## 🤔 FAQ
 
 **Q:** How do I install NetFlow?  
-**A:** Follow the Installation section above. If your platform has specific steps, open an issue and platform-specific instructions will be added.  
-
-**Q:** What are the system requirements?  
-**A:** See the Requirements section above.  
+**A:** Follow the Installation section above. If your platform has specific steps, open an issue and platform-specific instructions will be added.   
 
 **Q:** How is consumption data collected?  
 **A:** Consumption data is collected via a **background service**, which does **not significantly affect system resources**.  
@@ -95,12 +88,7 @@ This application does **not collect, store, or share any personal or sensitive d
 All processing is done **locally on your device**, and no information is sent to our servers.
 
 **Q:** Can I use NetFlow on multiple devices?  
-**A:** **Currently no**, it works only for Windows users.
-
----
-## 📄 License
-
-This project is licensed under: [Add license here]  
+**A:** **Currently NO**, it works only for Windows users.
 
 ---
 
