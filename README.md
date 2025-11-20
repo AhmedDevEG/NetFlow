@@ -8,8 +8,7 @@
 
 **📊 Stay Updated on Your Internet Usage**
 
-NetFlow is a **lightweight and user-friendly tool** to monitor and track your internet usage in real-time.  
-It provides insights into network activity and helps you understand **data consumption patterns** effortlessly.
+NetFlow is a **lightweight and user-friendly tool** to monitor your network data consumption.
 
 ---
 
@@ -82,7 +81,7 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 **Q:** How is consumption data collected?  
 **A:** Consumption data is collected via a **background service**, which does **not significantly affect system resources**.  
 
-**⚠️ Q: Is any personal or private data collected?**  
+**Q: ⚠️ Is any personal or private data collected?**  
 **A:** Your privacy is our top priority.  
 This application does **not collect, store, or share any personal or sensitive data**.  
 All processing is done **locally on your device**, and no information is sent to our servers.
