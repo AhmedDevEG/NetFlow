@@ -24,8 +24,8 @@ It provides insights into network activity and helps you understand **data consu
 
 ## 🛠️ Installation
 
-### Prerequisites
-- [List prerequisites such as Node.js, Python, Go, or OS requirements here]
+- Download the latest release .msi from this repository and run it
+- This app runs without any additional programs. **However**, if it does not start, you may need to install the latest [Windows App SDK Runtime](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads).
 
 ---
 
