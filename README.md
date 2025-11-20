@@ -46,10 +46,18 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 
 - **🐛 GitHub Issues** – Report bugs or feature requests: [Open an issue](https://github.com/AhmedDevEG/NetFlow/issues)  
   Include:
-  - Clear description of the problem  
+  - A clear and concise description of what the bug is
   - Steps to reproduce the issue  
   - Expected vs actual behavior  
-  - Environment details (OS, version, network setup)  
+  - Environment details (OS, Application version, network setup)  
+
+- **🚀 Feature Description**
+ Include:
+   - A clear description of the feature you would like to see added to NetFlow.
+   - 🎯 Explain what issue or limitation this feature addresses.
+   - 🤔 Describe how this feature benefits users or improves NetFlow. 
+   - 📂  Provide examples or situations where this feature would be useful.
+   - 📸 Include screenshots, sketches, or mockups if helpful. **(Optional)**
 
 - **💬 GitHub Discussions** – General questions, design discussions, or usage tips: [Join the discussion](https://github.com/AhmedDevEG/NetFlow/discussions)  
 
@@ -93,4 +101,4 @@ This project is licensed under: [Add license here]
 
 ---
 
-**Stay Updated on Your Internet Usage with NetFlow! 🌐**
+**𝑆𝑡𝑎𝑦 𝑈𝑝𝑑𝑎𝑡𝑒𝑑 𝑜𝑛 𝑌𝑜𝑢𝑟 𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡 𝑈𝑠𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑁𝑒𝑡𝐹𝑙𝑜𝑤! 🌐**
