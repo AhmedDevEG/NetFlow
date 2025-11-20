@@ -71,7 +71,7 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 > **🔔 Stay Updated! Follow our Telegram channel for the latest updates, tips, and announcements:** 
 [👉 Join Telegram Channel](https://t.me/A_F_Ls)
 - ⭐ Star the project to show your support  
-- 📝 Share issues and pull requests with clear descriptions  
+- 📝 Share issues and enhancements with clear descriptions  
 
 ---
 ## 🤔 FAQ
