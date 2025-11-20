@@ -16,9 +16,9 @@ It provides insights into network activity and helps you understand **data consu
 ## ✨ Features
 > ⚠️ **Notice:** This program is currently in **BETA** and may contain some bugs.
 - **⚡ Real-time Monitoring** – Track your internet usage as it happens  
-- **📈 Detailed Analytics** – Get comprehensive insights into your network activity  
 - **💾 Usage Tracking** – Monitor data consumption and bandwidth usage  
-- **🖥️ User-Friendly Interface** – Easy-to-use dashboard for quick access to your statistics  
+- **🖥️ User-Friendly Interface** – Easy-to-use dashboard for quick access to your statistics
+- **✅ Lightweight & Fully Compatible with Windows**
 
 ---
 
