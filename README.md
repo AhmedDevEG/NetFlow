@@ -1,4 +1,8 @@
-<img width="64" height="64" alt="NetFlow" src="https://github.com/user-attachments/assets/9cd689e7-4706-463a-9164-387c5d8f7e60" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9cd689e7-4706-463a-9164-387c5d8f7e60" width="128" height="128" alt="NetFlow" />
+</p>
+
+
 
 # NetFlow
 
@@ -67,6 +71,13 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 - **❓ FAQ** – Quick answers to common questions (see below)  
 ---
 
+## 🌐 Community
+> **🔔 Stay Updated! Follow our Telegram channel for the latest updates, tips, and announcements:** 
+[👉 Join Telegram Channel](https://t.me/A_F_Ls)
+- ⭐ Star the project to show your support  
+- 📝 Share issues and pull requests with clear descriptions  
+
+---
 ## 🤔 FAQ
 
 **Q:** How do I install NetFlow?  
@@ -85,16 +96,7 @@ All processing is done **locally on your device**, and no information is sent to
 
 **Q:** Can I use NetFlow on multiple devices?  
 **A:** **Currently no**, it works only for Windows users.  
-
 ---
-
-## 🌐 Community
-
-- ⭐ Star the project to show your support  
-- 📝 Share issues and pull requests with clear descriptions  
-
----
-
 ## 📄 License
 
 This project is licensed under: [Add license here]  
