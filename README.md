@@ -59,9 +59,9 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
    - 📂  Provide examples or situations where this feature would be useful.
    - 📸 Include screenshots, sketches, or mockups if helpful. **(Optional)**
 
-- **💬 GitHub Discussions** – General questions, design discussions, or usage tips: [Join the discussion](https://github.com/AhmedDevEG/NetFlow/discussions)  
+- **💬 Telegram Discussions** – General questions, design discussions, or usage tips: [Join the discussion](https://t.me/+ll7QQa67LO8zM2I0)  
 
-- **📧 Email** – Direct or urgent support: [maintainer@example.com]  
+- **📧 Contact** – Direct or urgent support: [Direct Messages In My TG Channel](https://t.me/A_F_Ls?direct)  
 
 ### Documentation
 - **❓ FAQ** – Quick answers to common questions (see below)  
