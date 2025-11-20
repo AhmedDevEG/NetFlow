@@ -92,10 +92,11 @@ We’re here to help! If you encounter any issues or have questions about NetFlo
 **⚠️ Q: Is any personal or private data collected?**  
 **A:** Your privacy is our top priority.  
 This application does **not collect, store, or share any personal or sensitive data**.  
-All processing is done **locally on your device**, and no information is sent to our servers.  
+All processing is done **locally on your device**, and no information is sent to our servers.
 
 **Q:** Can I use NetFlow on multiple devices?  
-**A:** **Currently no**, it works only for Windows users.  
+**A:** **Currently no**, it works only for Windows users.
+
 ---
 ## 📄 License
 
