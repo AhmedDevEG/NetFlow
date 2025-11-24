@@ -23,7 +23,7 @@ NetFlow is a **lightweight and user-friendly tool** to monitor your network data
 
 ## 🛠️ Installation
 
-- Download the latest release .msi from this repository and run it
+- Download the latest release .exe from this repository and run it
 - This app runs without any additional programs. **However**, if it does not start, you may need to install the latest [Windows App SDK Runtime](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads).
 
 ---
