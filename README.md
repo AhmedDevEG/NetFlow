@@ -18,7 +18,7 @@ NetFlow is a **lightweight and user-friendly tool** to monitor your network data
 - **💾 Usage Tracking** – Monitor data consumption and bandwidth usage  
 - **🖥️ User-Friendly Interface** – Easy-to-use dashboard for quick access to your statistics
 - **✅ Lightweight & Fully Compatible with Windows**
-
+- *The program currently supports only **English** and **Arabic** language*
 ---
 
 ## 🛠️ Installation
